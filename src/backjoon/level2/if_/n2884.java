@@ -1,4 +1,4 @@
-package backjoon;
+package backjoon.level2.if_;
 
 import java.util.Scanner;
 
