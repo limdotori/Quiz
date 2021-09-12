@@ -1,4 +1,4 @@
-package backjoon.level2.while_;
+package backjoon.level4;
 
 import java.util.Scanner;
 
